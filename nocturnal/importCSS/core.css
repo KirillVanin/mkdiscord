@@ -1,7 +1,7 @@
-@import url(https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css);
-@import url(https://codedotspectra.github.io/themes/core/hljs.css);
-@import url(https://codedotspectra.github.io/themes/core/settings-icons.css);
-@import url(https://xcruxiex.github.io/BBDThemes/Fixes/NocturnalFixes.css);
+@import url(https://raw.githubusercontent.com/KirillVanin/mkdiscord/master/core/base.css);
+@import url(https://raw.githubusercontent.com/KirillVanin/mkdiscord/master/core/hljs.css);
+@import url(https://raw.githubusercontent.com/KirillVanin/mkdiscord/master/core/settings-icons.css);
+@import url(https://raw.githubusercontent.com/KirillVanin/mkdiscord/master/core/NocturnalFixes.css);
 
 :root {
 	--backgroundDark: rgb(24, 28, 37);
